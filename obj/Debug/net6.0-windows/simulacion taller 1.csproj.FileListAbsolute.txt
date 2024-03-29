@@ -1,0 +1,34 @@
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.exe
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.deps.json
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.runtimeconfig.json
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.dll
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.pdb
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion_taller_1.Form1.resources
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.csproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.dll
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\refint\simulacion taller 1.dll
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.pdb
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documentos\Modelacion y simulacion\modelacion y simulacion cris version\simulacion taller 1\obj\Debug\net6.0-windows\ref\simulacion taller 1.dll
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.exe
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.deps.json
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.runtimeconfig.json
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.dll
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\bin\Debug\net6.0-windows\simulacion taller 1.pdb
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.csproj.AssemblyReference.cache
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion_taller_1.Form1.resources
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.csproj.GenerateResource.cache
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.AssemblyInfoInputs.cache
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.AssemblyInfo.cs
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.csproj.CoreCompileInputs.cache
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.dll
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\refint\simulacion taller 1.dll
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.pdb
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\simulacion taller 1.genruntimeconfig.cache
+C:\Users\crist\workspace\SimulacionCliente\simulacion taller 1\obj\Debug\net6.0-windows\ref\simulacion taller 1.dll
